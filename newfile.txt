@@ -1,3 +1,3 @@
-add - create files
-commit - changes made to the file
+add - it likes update the files for the git to see
+commit - confirm the changes to the file
 push - put the changes of the file in the remote
