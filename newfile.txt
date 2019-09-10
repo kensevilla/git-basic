@@ -1,2 +1,3 @@
-new file
-editted
+add - create files
+commit - changes made to the file
+push - put the changes of the file in the remote
